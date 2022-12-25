@@ -50,3 +50,5 @@ plt.show()
 # plt.title('Общий путь-%s.Номер города-%i.Всего городов -%i.\n Координаты X,Y случайные числа от %i до %i' % (
 #    round(sum, 3), startCity, cityNumbers, 0, maxOfCoordinates), size=14)
 """
+
+"Changes for fork"
